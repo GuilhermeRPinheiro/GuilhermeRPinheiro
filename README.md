@@ -5,7 +5,7 @@ Desenvolvedor FullStack em formação (3º Semestre - Análise e Desenvolvimento
 ## 🚀 Minhas Habilidades
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,python,html,css,tailwind,nodejs,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,python,html,css,tailwind,nodejs,github,vscode,figma,mysql" />
 </p>
 
 ---
