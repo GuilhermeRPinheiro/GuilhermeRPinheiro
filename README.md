@@ -4,7 +4,7 @@
 </p>
 
 <!-- TITLE_START -->
-💻 I’m a Full Stack Developer!
+👋 Hello, I’m Guilherme Pinheiro!
 <!-- TITLE_END -->
 
 <p align="center">
