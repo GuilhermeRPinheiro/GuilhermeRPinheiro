@@ -20,15 +20,7 @@ Desenvolvedor FullStack em formação (3º Semestre - Análise e Desenvolvimento
 
 ---
 
-## 📫 Conecte-se Comigo
-
-<p align="center">
   <a href="Link do seu LinkedIn AQUI" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:guilhermepinheiro603@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</p>
 
-***Desenvolvido com paixão por código e design.***
