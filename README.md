@@ -1,17 +1,6 @@
-<!-- Top Wave -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%" height="120" alt="wave-top"/>
-</p>
+# Olá, eu sou o Guilherme Pinheiro! 👋
 
-<!-- TITLE_START -->
-👋 Hello, I’m Guilherme Pinheiro!
-<!-- TITLE_END -->
-
-<p align="center">
 Desenvolvedor FullStack em formação (3º Semestre - Análise e Desenvolvimento de Sistemas). Meu foco é na criação de soluções que combinam interfaces dinâmicas, alta performance e design responsivo. Entusiasta de novas tecnologias e sempre em busca de aprimorar a experiência do usuário.
-</p>
-
----
 
 ## 🚀 Minhas Habilidades
 
@@ -21,11 +10,12 @@ Desenvolvedor FullStack em formação (3º Semestre - Análise e Desenvolvimento
 
 ---
 
-## 📊 Estatísticas e Linguagens
+## Estatísticas e Linguagens
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermepinheiroo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepinheiroo&layout=compact&langs_count=6&theme=dark&count_private=true&hide_border=false&cache_seconds=86400"/>
+</p>
 </p>
 
 ---
@@ -33,7 +23,7 @@ Desenvolvedor FullStack em formação (3º Semestre - Análise e Desenvolvimento
 ## 📫 Conecte-se Comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI" target="_blank">
+  <a href="Link do seu LinkedIn AQUI" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:guilhermepinheiro603@gmail.com">
@@ -41,10 +31,4 @@ Desenvolvedor FullStack em formação (3º Semestre - Análise e Desenvolvimento
   </a>
 </p>
 
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%" height="120" alt="wave-bottom"/>
-</div>
-
-<p align="center"><em>Desenvolvido com paixão por código e design.</em></p>
+***Desenvolvido com paixão por código e design.***
