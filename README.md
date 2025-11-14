@@ -20,7 +20,7 @@ Gosto de aprender novas tecnologias e transformar ideias em produtos reais! 🔥
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,python,html,css,tailwind,mysql,figma,github,vscode,mongo" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,python,html,css,tailwind,mysql,figma,github,mongo" />
 </p>
 
 ---
